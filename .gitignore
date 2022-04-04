@@ -1,4 +1,8 @@
 # Byte-compiled / optimized / DLL files
+/PyTorch Recipes/waves_yesno
+*.pt
+*.tar.gz
+
 __pycache__/
 *.py[cod]
 *$py.class
